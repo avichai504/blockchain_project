@@ -1,0 +1,21 @@
+{
+  "name": "blockchain_project",
+  "version": "1.0.0",
+  "description": "Simple blockchain with mining, mempool, bloom filter, merkle tree and segwit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptography",
+    "bloomfilter",
+    "merkletree",
+    "segwit"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.6.1"
+  }
+}
